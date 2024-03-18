@@ -1,8 +1,8 @@
-### Sesion 2
+### Sesión 2
 #dnd
 
 
 ---
-### Sesion 3
+### Sesión 3
 
 --- 
