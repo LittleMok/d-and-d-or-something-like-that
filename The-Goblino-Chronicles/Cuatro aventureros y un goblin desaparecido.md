@@ -14,6 +14,6 @@ Tuvimos que hacer una emboscada que estuvo a un pelo de salir mal, pero pudimos 
 Explorando nos encontramos una bella colección de rarezas, incluyendo una escalera infinita, una alcantarilla con olores imposibles de describir, un brasero cuya llama mágica estaba custodiada por un espectro y una puerta que se enciende usando la llama de ese mismo brasero. Todavía no se cuantos escalones subimos y bajamos ese día, pero nos podríamos haber ahorrado el ejercicio si hubiésemos explorado atentamente el lugar.
 
 ---
-Cuando pudimos descender al verdadero camino de la escalera magica nos encontramos con una especie de calabozo, lleno de esqueletos.
+Cuando pudimos descender al verdadero camino de la escalera mágica nos encontramos con una especie de calabozo, lleno de esqueletos.
 
 --- 
