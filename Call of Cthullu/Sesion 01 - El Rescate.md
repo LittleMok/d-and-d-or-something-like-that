@@ -1,4 +1,5 @@
 ## Preludio
+#cthulu
 ## Ciudad de Bennington, Vermont
 El mapa es de la ciudad y el bosque adyacente. Parece ser un punto de destino y varios puntos iniciales de expedición.
 

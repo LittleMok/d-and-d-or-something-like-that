@@ -1,4 +1,5 @@
 ## El segundo campamento
+#cthulu
 Establecimos campamento y curamos al rehen, esta herido pero estable. Quedo atado en un lugar donde podemos observarlo.
 
 Nuevamente establecemos guardias, tomando la primera Ereh y yo. 

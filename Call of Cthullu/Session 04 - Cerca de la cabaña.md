@@ -1,4 +1,5 @@
 ## Despues del ataque
+#cthulu
 De este dia tengo pocos recuerdos, todos un tanto confusos. Creo que la mezcla entre la falta de sueño, la tension y las pesadillas me afectaron la memoria.
 
 Que yo recuerde, apenas despertamos, notamos que el bosque parecia mas oscuro, como si las copas de los arboles dejasen pasar cada vez menos luz. Los arboles mismos se veian extraños, las ramas parecian retorcidas y debiles, parecia que una lluvia casi constante de hojas muertas caía. Se veian de un color enfermizo, mezcla entre amarillo y gris.

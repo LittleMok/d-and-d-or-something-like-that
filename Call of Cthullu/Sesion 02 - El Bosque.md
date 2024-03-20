@@ -1,4 +1,5 @@
 ## La mañana siguiente
+#cthulu
 Cuando me despierto, por el resto del dia, tiro con desventaja en constitucion. 
 
 Retomamos el camino hacia el noreste. Juliet nota que no se escucha nada en el bosque. De una manera casi antinatural, el bosque esta callado. A pesar de ser la mañana, apenas si se notan sonidos.
