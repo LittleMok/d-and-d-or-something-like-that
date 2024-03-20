@@ -11,8 +11,9 @@ Explorando la ciudad (Y con ayuda de [[Ingrid]] y un ratón), descubrimos un cal
 ---
 Tuvimos que hacer una emboscada que estuvo a un pelo de salir mal, pero pudimos atrapar a un sujeto que cuadraba con la rudimentaria descripción que nos dieron y mediante un par de golpes, soga y agua conseguimos intimidarlo lo suficiente como para que pronuncie la frase mágica.
 
-Explorando nos encontramos una bella colección de rarezas, incluyendo una escalera infinita, una alcantarilla con olores imposibles de describir, un brasero cuya llama mágica estaba custodiada por un espectro y una puerta que se enciende usando la llama de ese brasero. Todavía no se cuantos escalones subimos y bajamos ese día, pero nos podríamos haber ahorrado el ejercicio si hubiésemos explorado atentamente el lugar.
+Explorando nos encontramos una bella colección de rarezas, incluyendo una escalera infinita, una alcantarilla con olores imposibles de describir, un brasero cuya llama mágica estaba custodiada por un espectro y una puerta que se enciende usando la llama de ese mismo brasero. Todavía no se cuantos escalones subimos y bajamos ese día, pero nos podríamos haber ahorrado el ejercicio si hubiésemos explorado atentamente el lugar.
 
 ---
+Cuando pudimos descender al verdadero camino de la escalera magica nos encontramos con una especie de calabozo, lleno de esqueletos.
 
 --- 
