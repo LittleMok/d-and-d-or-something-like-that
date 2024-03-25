@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31102e65bab5874e",
+        "id": "ba6cde24cee2a12b",
         "type": "tabs",
         "children": [
           {
-            "id": "a178ad51395e0942",
+            "id": "681662a0aaf7d433",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a178ad51395e0942",
+  "active": "681662a0aaf7d433",
   "lastOpenFiles": [
+    "The-Goblino-Chronicles/resources/LittleMok_117724684.pdf",
+    "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
     "Call of Cthullu/Sesion 02 - El Bosque.md",
     "Call of Cthullu/Sesion 01 - El Rescate.md",
     "Call of Cthullu/Session 04 - Cerca de la cabaña.md",
     "Call of Cthullu/Session 03 - La noche en el bosque.md",
     "The-Goblino-Chronicles/Tres marineros y una jarra de cerveza.md",
-    "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
     "The-Goblino-Chronicles/Personajes/Pedro.md",
     "The-Goblino-Chronicles/Personajes/Carlos.md",
     "The-Goblino-Chronicles/Personajes/Ingrid.md",
