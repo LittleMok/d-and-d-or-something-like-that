@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba6cde24cee2a12b",
+        "id": "0b8b90a66717d8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "681662a0aaf7d433",
+            "id": "447435d91f80c7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,9 @@
                 "file": "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cuatro aventureros y un goblin desaparecido"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cuatro aventureros y un goblin desaparecido"
             }
           },
           {
@@ -105,7 +116,9 @@
                 "file": "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cuatro aventureros y un goblin desaparecido"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md"
-              }
+                "file": "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cuatro aventureros y un goblin desaparecido"
             }
           }
         ]
@@ -146,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "681662a0aaf7d433",
+  "active": "447435d91f80c7d5",
   "lastOpenFiles": [
-    "The-Goblino-Chronicles/resources/LittleMok_117724684.pdf",
     "The-Goblino-Chronicles/Cuatro aventureros y un goblin desaparecido.md",
+    "The-Goblino-Chronicles/Tres marineros y una jarra de cerveza.md",
+    "The-Goblino-Chronicles/Personajes/Carlos.md",
+    "The-Goblino-Chronicles/resources/LittleMok_117724684.pdf",
     "Call of Cthullu/Sesion 02 - El Bosque.md",
     "Call of Cthullu/Sesion 01 - El Rescate.md",
     "Call of Cthullu/Session 04 - Cerca de la cabaña.md",
     "Call of Cthullu/Session 03 - La noche en el bosque.md",
-    "The-Goblino-Chronicles/Tres marineros y una jarra de cerveza.md",
     "The-Goblino-Chronicles/Personajes/Pedro.md",
-    "The-Goblino-Chronicles/Personajes/Carlos.md",
     "The-Goblino-Chronicles/Personajes/Ingrid.md",
     "The-Goblino-Chronicles/Personajes/Igna.md",
     "templates/personaje.md",
